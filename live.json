@@ -486,6 +486,35 @@
                     "rainfall": "1.00"
                 }
             ]
+        },
+        {
+            "id": "19",
+            "name": "Coquitlam",
+            "officialName": "COQUITLAM DAM",
+            "MWL": "152.5",
+            "FRL": "151.8",
+            "liveStorageAtFRL": "58000",
+            "ruleLevel": "150.0",
+            "blueLevel": "145.0",
+            "orangeLevel": "148.0",
+            "redLevel": "150.5",
+            "latitude": 49.37197,
+            "longitude": -122.77808,
+            "dataSource": "wsc_08MH149",
+            "data": [
+                {
+                    "date": "02.06.2025",
+                    "waterLevel": "846.70",
+                    "liveStorage": "0.165",
+                    "storagePercentage": "42.31%",
+                    "inflow": "15.63",
+                    "powerHouseDischarge": "15.08",
+                    "spillwayRelease": "0.00",
+                    "totalOutflow": "15.08",
+                    "rainfall": "1.00"
+                }
+            ]
         }
+
     ]
 }

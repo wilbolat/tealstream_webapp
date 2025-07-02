@@ -11,6 +11,7 @@
     "redLevel": "",
     "latitude": 10.010833,
     "longitude": 77.0325,
+    "dataSource":"json",
     "data": [
         {
             "date": "02.06.2025",
