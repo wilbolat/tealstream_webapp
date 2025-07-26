@@ -1,4 +1,6 @@
 name: Fetch Dam Details
+permissions:
+  contents: write
 
 on:
   schedule:
